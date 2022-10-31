@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: e734902cde6f1c14ba323fc7da93a3ce
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body
+    100004: CentralEngine
+    100006: CentralEngineCover
+    100008: CockpitGlass
+    100010: Controls
+    100012: Engines
+    100014: FrontPlates
+    100016: Greebles1
+    100018: Greebles2
+    100020: Greebles3
+    100022: HullPlating
+    100024: Laser
+    100026: LaserAimLeft
+    100028: LaserAimMaster
+    100030: LaserAimRight
+    400000: //RootNode
+    400002: Body
+    400004: CentralEngine
+    400006: CentralEngineCover
+    400008: CockpitGlass
+    400010: Controls
+    400012: Engines
+    400014: FrontPlates
+    400016: Greebles1
+    400018: Greebles2
+    400020: Greebles3
+    400022: HullPlating
+    400024: Laser
+    400026: LaserAimLeft
+    400028: LaserAimMaster
+    400030: LaserAimRight
+    2100000: ScratchedMetalRed
+    2100002: ScratchedMetalDark
+    2100004: ScratchedMetal
+    2100006: YellowEngineGlow
+    2100008: ReflectiveGlass
+    2300000: Body
+    2300002: CentralEngine
+    2300004: CentralEngineCover
+    2300006: CockpitGlass
+    2300008: Controls
+    2300010: Engines
+    2300012: FrontPlates
+    2300014: Greebles1
+    2300016: Greebles2
+    2300018: Greebles3
+    2300020: HullPlating
+    2300022: Laser
+    3300000: Body
+    3300002: CentralEngine
+    3300004: CentralEngineCover
+    3300006: CockpitGlass
+    3300008: Controls
+    3300010: Engines
+    3300012: FrontPlates
+    3300014: Greebles1
+    3300016: Greebles2
+    3300018: Greebles3
+    3300020: HullPlating
+    3300022: Laser
+    4300000: Body
+    4300002: CentralEngine
+    4300004: CentralEngineCover
+    4300006: CockpitGlass
+    4300008: Controls
+    4300010: Engines
+    4300012: FrontPlates
+    4300014: Greebles1
+    4300016: Greebles2
+    4300018: Greebles3
+    4300020: HullPlating
+    4300022: Laser
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

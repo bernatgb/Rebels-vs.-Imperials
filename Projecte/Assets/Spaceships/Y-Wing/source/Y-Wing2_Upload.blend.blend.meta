@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: f67d4fc15cdbd334fa422c74f1552440
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cockpit
+    100002: CockpitSection
+    100004: CockpitSectionHullPlates
+    100006: EngineBackSection
+    100008: EngineGreebles
+    100010: Engines
+    100012: IonCannon
+    100014: IonCannonAim
+    100016: IonCannonBaseTrack
+    100018: IonCannonTurret
+    100020: LaserCannon
+    100022: MainSection
+    100024: MainSectionGreebles1
+    100026: MainSectionGreebles2
+    100028: MainSectionHullPlates
+    100030: R2Body
+    100032: R2Head
+    100034: R2HullPlates
+    100036: WingSection
+    100038: WingSectionGreebles
+    100040: //RootNode
+    400000: Cockpit
+    400002: CockpitSection
+    400004: CockpitSectionHullPlates
+    400006: EngineBackSection
+    400008: EngineGreebles
+    400010: Engines
+    400012: IonCannon
+    400014: IonCannonAim
+    400016: IonCannonBaseTrack
+    400018: IonCannonTurret
+    400020: LaserCannon
+    400022: MainSection
+    400024: MainSectionGreebles1
+    400026: MainSectionGreebles2
+    400028: MainSectionHullPlates
+    400030: R2Body
+    400032: R2Head
+    400034: R2HullPlates
+    400036: WingSection
+    400038: WingSectionGreebles
+    400040: //RootNode
+    2100000: ScratchedMetal
+    2100002: ScratchedMetalRed
+    2100004: ReflectiveGlass
+    2100006: ScratchedMetalDark
+    2100008: ScratchedMetal__PaleYellowMetal
+    2100010: YellowEngineGlow
+    2100012: ScratchedMetalRed__PaleYellowMetal
+    2100014: MetalWhite
+    2100016: MetalPurple__PurpleMetal_jpg
+    2100018: ReflectiveGlass__PurpleMetal_jpg
+    2100020: MetalGrey__GreyMetal_jpg
+    2100022: ReflectiveGlass__GreyMetal_jpg
+    2100024: ReflectiveGlassRed__PurpleMetal_jpg
+    2300000: Cockpit
+    2300002: CockpitSection
+    2300004: CockpitSectionHullPlates
+    2300006: EngineBackSection
+    2300008: EngineGreebles
+    2300010: Engines
+    2300012: IonCannon
+    2300014: IonCannonTurret
+    2300016: LaserCannon
+    2300018: MainSection
+    2300020: MainSectionGreebles1
+    2300022: MainSectionGreebles2
+    2300024: MainSectionHullPlates
+    2300026: R2Body
+    2300028: R2Head
+    2300030: R2HullPlates
+    2300032: WingSection
+    2300034: WingSectionGreebles
+    3300000: Cockpit
+    3300002: CockpitSection
+    3300004: CockpitSectionHullPlates
+    3300006: EngineBackSection
+    3300008: EngineGreebles
+    3300010: Engines
+    3300012: IonCannon
+    3300014: IonCannonTurret
+    3300016: LaserCannon
+    3300018: MainSection
+    3300020: MainSectionGreebles1
+    3300022: MainSectionGreebles2
+    3300024: MainSectionHullPlates
+    3300026: R2Body
+    3300028: R2Head
+    3300030: R2HullPlates
+    3300032: WingSection
+    3300034: WingSectionGreebles
+    4300000: CockpitSectionHullPlates
+    4300002: Cockpit
+    4300004: CockpitSection
+    4300006: EngineBackSection
+    4300008: EngineGreebles
+    4300010: Engines
+    4300012: IonCannon
+    4300014: IonCannonTurret
+    4300016: LaserCannon
+    4300018: MainSection
+    4300020: MainSectionGreebles1
+    4300022: MainSectionGreebles2
+    4300024: MainSectionHullPlates
+    4300026: R2Body
+    4300028: R2Head
+    4300030: R2HullPlates
+    4300032: WingSection
+    4300034: WingSectionGreebles
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ScratchedMetalDark
+    second: {fileID: 2100000, guid: 04453d6de9fe5c845b8b6fe816fe933c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,7 +1,7 @@
-# Rebels-vs.-Imperials
+# Rebels vs. Imperials
 A 3D game made with Unity based on "Plants vs. Zombies" with "Star Wars" theme.
 
-## Creators:
+## Creators
 - Pau Folch Gómez, animator, programmer & visual effects artist.
 - Bernat Güell Brocal, menus creator, programmer, level designer, story writer & visual effects artist.
 
